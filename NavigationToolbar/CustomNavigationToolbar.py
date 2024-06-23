@@ -1,4 +1,4 @@
-# 改写NavigationToolbar，使得
+# 改写NavigationToolbar，使得可以保存高清图片
 from matplotlib.backends.backend_qt5 import NavigationToolbar2QT as NavigationToolbar
 from PyQt5.QtWidgets import QFileDialog
 
